@@ -1,26 +1,83 @@
-print("Hello World!!") rs...
-# Olá 👋, sou Maicon!
 
-Tenho 26 anos e atualmente curso *Gestão da Tecnologia da Informação (GTI)* na FAPAM, em Pará de Minas-MG.  
-Minha paixão é programação, com interesse tanto em back-end quanto front-end. Meu objetivo é conquistar uma oportunidade como desenvolvedor full stack, e estou empenhado em meus estudos para isso.
+<h1>Maicon Douglas</h1>
 
-### Sobre mim
-- 💬 Sou uma pessoa bem comunicativa e adoro aprender coisas novas.
-- 🎮 No meu tempo livre, gosto de jogar, estudar e ler.
-- 💻 Coloquei aqui alguns códigos que pratiquei — fique à vontade para conferir!
 
-Bem-vindo ao meu GitHub!
 
-_________________________________________________
-print("Hello World!!") lol...
-# Hi 👋, I'm Maicon!
+<div >
 
-I'm 26 years old, currently studying *Information Technology Management (ITM)* at FAPAM in Pará de Minas, Brazil.  
-I'm passionate about programming, with interests in both back-end and front-end development. My goal is to pursue a career as a full-stack developer, and I'm dedicated to my studies to achieve it.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo&center=true&width=500&height=50">
 
-### About Me
-- 💬 I'm a communicative person and love learning new things.
-- 🎮 In my free time, I enjoy gaming, studying, and reading.
-- 💻 I've shared some of the code I’ve practiced here — feel free to check it out!
+</div>
 
-Welcome to my GitHub!
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Eu sou o **Maicon Douglas**, tenho **28 anos** e moro em **Minas Gerais, Brasil**.
+
+Sou graduado em **Gestão da Tecnologia da Informação (GTI)** pela **FAPAM (Faculdade de Pará de Minas)**.
+
+Atualmente atuo como **Desenvolvedor Júnior**, trabalhando no desenvolvimento de sistemas e na integração de APIs. Também estudo **inglês** na **Wizard**, buscando aprimorar minha comunicação e ampliar minhas habilidades.
+
+Sou apaixonado por desenvolvimento de software e estou sempre em busca de novos conhecimentos, acompanhando tecnologias, boas práticas e ferramentas que contribuam para minha evolução profissional.
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,typescript,javascript,php,python,postgres,git,github"/>
+
+</div>
+
+
+---
+
+<div >
+
+## 🚀 Projetos
+
+<p>
+Explore os projetos que venho desenvolvendo e acompanhe minha evolução como desenvolvedor.
+</p>
+
+<a href="https://github.com/maicondsm?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar%20Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
+</div>
+
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maicondsm&theme=tokyo-night"/>
+
+</div>
+
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maicon-douglas-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:maiconsilva2453@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=maicondsm&color=blue&style=flat"/>
+
+</div>
